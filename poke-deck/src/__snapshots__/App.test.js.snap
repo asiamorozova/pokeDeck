@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`This render App 1`] = `
+<main>
+  <img
+    src="https://www.pngkey.com/png/detail/32-329404_frames-illustrations-hd-download-the-vector-logo-pokemon.png"
+  />
+  <ul />
+</main>
+`;
+
+exports[`This render Header 1`] = `
+<img
+  src="https://www.pngkey.com/png/detail/32-329404_frames-illustrations-hd-download-the-vector-logo-pokemon.png"
+/>
+`;
